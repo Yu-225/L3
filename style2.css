@@ -1,0 +1,36 @@
+body {
+	background-color: #FED8D8;
+}
+
+a {
+	text-decoration: none;
+	color: #1A0E06;
+}
+a:hover {color: #7b5a44;}
+
+.allContent {
+	margin-left: 5%;
+	font-family: Comic Sans MS;
+
+}
+
+.book1 img, .book2 img, .book3 img, .book4 img {
+	width: 222px;
+	height: 333px;
+	border-radius: 5%;
+	float: left;
+}
+
+.book1, .book2, .book3, .book4 {
+	background-color: #FFCCDD;
+	border-radius: 18px;
+	height: 333px;
+	width: 95%;
+	border: 5px solid #D9B8C4;
+	margin-top: 10px;
+}
+
+.info1, .info2, .info3, .info4 {
+	margin-left: 19%;
+	height: 555px;
+}
